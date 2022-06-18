@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rakeR",
+    "oncran": true
+  },
+  {
+    "package": "trigpoints",
+    "oncran": true
+  }
+]
